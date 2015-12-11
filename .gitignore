@@ -17,6 +17,7 @@
 *.pidb
 *.booproj
 *.fbx
+*.xls
 
 # Unity3D generated meta files
 *.pidb.meta
