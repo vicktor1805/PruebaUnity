@@ -23,4 +23,5 @@
 *.pidb.meta
 
 # Unity3D Generated File On Crash Reports
+#Sin el Sync
 sysinfo.txt
